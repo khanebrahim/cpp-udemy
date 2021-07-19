@@ -4,7 +4,7 @@ int main(){
     int age;
     cout<<"Enter age:";
     cin >> age;
-    if(age>=13&&age<=50){
+    if(age>=13||age<=50){
         cout<<"He is a young boy"<<endl;
     }
     else{
