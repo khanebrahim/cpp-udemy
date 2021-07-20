@@ -35,5 +35,8 @@ else if (day==7)
 {
     cout<<"OOF-Day"<<endl; 
 }
+else{
+    cout<<"special-day"<<endl;
+}
 return 0;
 }
