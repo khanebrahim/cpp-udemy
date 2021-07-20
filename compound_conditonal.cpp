@@ -9,6 +9,7 @@ int main(){
     }
     else{
         cout<<"He is a old man";
+        
     }
     return 0;
 }
