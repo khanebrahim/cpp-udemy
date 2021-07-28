@@ -6,6 +6,8 @@ int main (){
     for(int i=0;i<10;i++){
         sum+=A[i];
         cout<<"Sum of all elements is "<<sum<<endl;
+        
+        
     }
     return 0;
 }
